@@ -1,2 +1,1 @@
-Initial commit: add Audio-to-Text converter code and README
-The Audio-to-Text Converter is a simple Python tool that converts audio recordings into text using the SpeechRecognition library. It allows users to transcribe .wav and .mp3 files into written text easily. This project is especially useful for students, professionals, and developers who want to automate transcription of lectures, meetings, podcasts, or any audio content.
+
